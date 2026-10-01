@@ -1,0 +1,33 @@
+# PDF processing
+PyMuPDF
+
+# Data processing
+numpy
+pandas
+
+# NLP
+nltk
+
+# Deep learning
+torch
+torchvision
+
+# Transformers and embeddings
+transformers
+sentence-transformers
+tokenizers
+
+# Vector search
+faiss-cpu
+
+# Machine learning / evaluation
+scikit-learn
+
+# Application
+streamlit
+
+# Testing
+pytest
+
+# Configuration
+python-dotenv

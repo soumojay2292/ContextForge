@@ -7,8 +7,8 @@ build/
 dist/
 
 # Virtual environments
-.venv/
-venv/
+.Cfvenv/
+Cfvenv/
 env/
 
 # Environment variables
