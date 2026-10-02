@@ -3,7 +3,6 @@
 from collections.abc import Sequence
 
 import numpy as np
-from sentence_transformers import SentenceTransformer
 
 from src.ingestion.chunking import DocumentChunk
 
@@ -24,6 +23,11 @@ class EmbeddingModel:
     """
 
     def __init__(self, model_name: str = DEFAULT_MODEL_NAME, device: str | None = None, batch_size: int = 32):
+        # Imported here, not at module level: importing sentence-transformers loads
+        # PyTorch, which is slow, and code that only needs this class's type
+        # (such as the vector store) should not pay that cost.
+        from sentence_transformers import SentenceTransformer
+
         self.model_name = model_name
         self.batch_size = batch_size
         self._model = SentenceTransformer(model_name, device=device)

@@ -8,12 +8,6 @@ from src.retrieval.embeddings import EmbeddingModel
 MINILM_DIMENSION = 384
 
 
-@pytest.fixture(scope="module")
-def model() -> EmbeddingModel:
-    # Loading the model is slow, so every test in this module shares one instance.
-    return EmbeddingModel()
-
-
 def make_chunks(*texts: str) -> list[DocumentChunk]:
     return [
         DocumentChunk(text=text, source="doc.pdf", page_number=1, chunk_index=index)
