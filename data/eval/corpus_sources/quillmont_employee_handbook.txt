@@ -1,0 +1,38 @@
+Quillmont Analytics Employee Handbook
+Synthetic document for the ContextForge evaluation corpus. All names, figures and policies are fictional.
+
+About this handbook
+This handbook describes the working conditions for all permanent employees of Quillmont Analytics. It was last revised in January 2025 and replaces the edition from 2021. Questions about the handbook should be sent to the People Operations team.
+
+Working hours
+The standard working week at Quillmont Analytics is 37.5 hours, spread over five days. Core hours run from 10:00 to 15:00, and every employee is expected to be available during that window. Outside core hours, employees may choose when to start and finish their working day.
+
+Remote work
+Employees may work remotely for up to three days per week. At least two days per week must be spent at one of the company offices in Lisbon or Rotterdam. Working remotely from outside the country of employment requires written approval from a manager and is limited to 20 working days per calendar year.
+
+Probation
+New employees complete a probation period of six months. During probation, either side may end the employment with two weeks of notice.
+=== PAGE BREAK ===
+Annual leave
+Employees working full time receive 26 days of paid annual leave per calendar year, in addition to public holidays. Employees working part time receive leave in proportion to their contracted hours. Up to five unused leave days may be carried over into the next year, and days carried over expire on 31 March.
+
+Sick leave
+Employees who are ill must inform their manager before 09:30 on the first day of absence. A medical certificate is required for absences longer than three consecutive working days.
+
+Parental leave
+Quillmont Analytics offers 16 weeks of fully paid parental leave to every new parent, regardless of gender. Parental leave can be taken in up to three separate blocks within the first year after the birth or adoption.
+
+Expenses
+Business expenses must be submitted through the finance portal within thirty days of the purchase. A receipt is required for every expense above EUR 25. Travel by train is preferred for journeys shorter than 500 kilometres.
+=== PAGE BREAK ===
+Equipment
+Each employee receives a laptop, a monitor and a headset on their first day. Laptops are replaced every four years, or earlier if a repair would cost more than half the price of a new device. Lost or stolen equipment must be reported to the IT service desk within 24 hours.
+
+Learning and development
+Every employee has a personal training budget of EUR 1,200 per calendar year. The budget can be used for courses, conferences, certification exams and books. Unused training budget does not carry over to the following year.
+
+Onboarding
+During the first week, every new employee completes four onboarding steps: a security awareness course, a meeting with their assigned buddy, a product demonstration and a review of this handbook. The buddy is an experienced colleague from another team who answers practical questions during the first three months.
+
+Leaving the company
+After probation, employees who resign must give one month of notice. All equipment must be returned on or before the last working day.

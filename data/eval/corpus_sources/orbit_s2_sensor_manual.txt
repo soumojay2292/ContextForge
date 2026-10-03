@@ -1,0 +1,36 @@
+Orbit S2 Indoor Air Quality Sensor: User Manual
+Synthetic document for the ContextForge evaluation corpus. All names, figures and products are fictional.
+
+Overview
+The Orbit S2 is a wireless sensor made by Quillmont Analytics for monitoring air quality in classrooms, offices and meeting rooms. It measures carbon dioxide, temperature, relative humidity and fine particulate matter (PM2.5). Readings are sent to the Quillmont cloud dashboard every five minutes over a LoRaWAN or WiFi connection.
+
+Differences from the Orbit S1
+The Orbit S2 replaces the earlier Orbit S1. The S1 measured only carbon dioxide and temperature and had a battery life of 12 months. The S2 adds humidity and particulate sensing and extends the battery life to 18 months under normal use.
+
+Technical specifications
+The carbon dioxide sensor covers a range of 400 to 5,000 ppm with an accuracy of plus or minus 40 ppm. The device operates between 0 and 40 degrees Celsius and is intended for indoor use only. The housing has an IP20 rating, so the sensor must not be installed in bathrooms, kitchens or outdoors. The device weighs 160 grams and is powered by two replaceable AA lithium batteries.
+=== PAGE BREAK ===
+Installation
+Mount the sensor on an inside wall at a height between 1.2 and 1.8 metres, away from windows, doors and air vents. Keep at least 2 metres between the sensor and the seats people usually occupy, so that exhaled air does not distort the readings.
+
+Setup
+To set up a new Orbit S2, follow five steps: insert the batteries, scan the QR code on the back with the Quillmont app, choose the room in the app, wait for the status light to turn green and confirm the first reading on the dashboard. Setup usually takes less than ten minutes per device.
+
+Status light
+A slowly blinking blue light means the sensor is pairing with the app. A steady green light for five seconds after a button press means the sensor is working normally. An amber light means the batteries are low and should be replaced within two weeks. A red light means a sensor fault; in that case, contact support and do not open the housing.
+
+Calibration
+The carbon dioxide sensor recalibrates itself automatically by assuming that the room reaches outdoor air levels at least once a week. Rooms that are occupied around the clock should instead receive a manual calibration every 12 months, using the calibration kit that is sold separately.
+=== PAGE BREAK ===
+Error codes
+Error codes appear in the Quillmont app next to the affected device. Error E04 means the device has lost its network connection for more than one hour. Error E11 means the battery voltage is too low for reliable measurements. Error E17 means the particulate sensor fan is blocked, usually by dust; clean the air inlet with a soft brush and restart the device. Error E23 means the internal clock could not be synchronised after a power loss.
+
+Data storage
+If the network is unavailable, the sensor stores up to 30 days of readings in its internal memory and uploads them automatically once the connection returns. Readings older than 30 days are overwritten.
+
+Factory reset
+To restore factory settings, hold the button on the back of the device for 15 seconds until the light flashes white three times. A factory reset removes the room assignment, so the device must be set up again in the app.
+
+Firmware updates
+Firmware updates are installed over the air during the night. Each update is first tested on a group of 50 devices for one week before it is released to all customers. The current firmware version is shown on the device details screen of the app. Every update is verified with SHA-256 check-
+sums before it is installed.

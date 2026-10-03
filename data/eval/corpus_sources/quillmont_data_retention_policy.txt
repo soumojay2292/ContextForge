@@ -1,0 +1,23 @@
+Quillmont Analytics Data Retention and Security Policy
+Synthetic document for the ContextForge evaluation corpus. All names, figures and policies are fictional.
+
+Purpose
+This policy defines how long Quillmont Analytics keeps different kinds of data and how that data is protected. It applies to all systems operated by the company, including systems run by suppliers on its behalf. Policy version 3.2 took effect on 1 July 2024.
+
+Retention periods
+Signed customer contracts are retained for seven years after the contract ends. Support tickets are deleted 24 months after they are closed. Application logs are kept for 90 days and then deleted automatically. Raw sensor readings collected from customer devices are kept for 13 months, after which only monthly averages are stored. Job applications from candidates who were not hired are deleted after six months.
+
+Backups
+Production databases are backed up every night at 02:00 UTC. A full backup is taken every Sunday, and incremental backups are taken on the other days. Backups are kept for 35 days in a second data centre in Frankfurt.
+=== PAGE BREAK ===
+Encryption
+All customer data is encrypted at rest with AES-256. Data in transit between services and to customers is protected with TLS 1.3. Encryption keys are rotated every 180 days by the security team.
+
+Access control
+Access to production systems requires two-factor authentication. Each team lead reviews the access rights of their team every quarter. Accounts that have not been used for 60 days are disabled automatically.
+
+Incident response
+When a security incident is detected, the response team follows four steps: contain the incident, assess the impact, notify affected customers and review the lessons learned. Affected customers must be notified within 72 hours of the incident being confirmed. Every incident is recorded in the incident register, even when no customer data was affected.
+
+Exceptions
+Exceptions to this policy must be approved in writing by the Chief Information Security Officer. An approved exception is valid for at most one year and must then be reviewed again.

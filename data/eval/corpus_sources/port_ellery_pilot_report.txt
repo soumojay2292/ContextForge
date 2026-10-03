@@ -1,0 +1,26 @@
+Port Ellery Schools Air Quality Pilot: Final Report
+Synthetic document for the ContextForge evaluation corpus. All names, places and figures are fictional.
+
+Summary
+Between March and August 2025, the city of Port Ellery installed Orbit S2 sensors from Quillmont Analytics in 14 public schools. The pilot measured indoor air quality in 120 classrooms to decide whether a citywide ventilation programme was needed. The pilot was led by the Port Ellery Department of Education, with technical support from Quillmont Analytics.
+
+Background
+Earlier studies in other cities linked high carbon dioxide levels in classrooms to lower concentration among pupils. Port Ellery had no measurements of its own, and several parent associations had asked the city to investigate. The city council approved the pilot in November 2024 with a budget of EUR 84,000.
+=== PAGE BREAK ===
+Method
+One sensor was installed in each of the 120 classrooms during the spring break. Readings were collected every five minutes during school hours and compared against a limit of 1,000 ppm of carbon dioxide. Teachers were asked not to change their usual habits during the first eight weeks, so that the baseline would reflect normal conditions.
+
+Findings
+During the baseline period, 38 percent of classrooms exceeded 1,000 ppm for more than an hour on a typical school day. The highest levels were recorded in the afternoon, after lunch, in rooms with windows that could not be opened. Average humidity stayed between 35 and 55 percent in all schools, and particulate levels were low except near two construction sites.
+
+Ventilation trial
+In the second half of the pilot, 40 classrooms tested a simple routine: opening the windows for five minutes at the end of every lesson. In these classrooms, the average carbon dioxide level fell by 22 percent compared with the baseline. Classrooms that kept their usual habits showed no significant change.
+=== PAGE BREAK ===
+Technical issues
+Three sensors stopped reporting because their batteries drained much faster than expected, which Quillmont Analytics traced to a firmware fault that was fixed in June. Two further sensors were damaged by cleaning staff and had to be replaced. Overall, the sensors delivered 97 percent of the expected readings.
+
+Costs
+The final cost of the pilot was EUR 79,500, which is below the approved budget. Sensors and installation accounted for about two thirds of the cost, and data analysis for the remainder.
+
+Recommendations
+The project team makes three recommendations: adopt the window routine in all primary schools, install mechanical ventilation where windows cannot be opened, and repeat the measurements in winter. Windows are opened less often in winter, so the summer results may underestimate the problem. The city council will vote on the recommendations in its December session.
