@@ -34,6 +34,9 @@ data/vector_store/*
 !data/processed/.gitkeep
 !data/vector_store/.gitkeep
 
+# Raw evaluation runs (commit only the summaries built from them)
+reports/evaluation/runs/
+
 # IDE / OS
 .vscode/
 .idea/
